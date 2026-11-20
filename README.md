@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Wassim</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **None**
+- 🔭 I’m currently working on **E2E County**
 
 - 🌱 I’m currently learning **Backend Development**
 
